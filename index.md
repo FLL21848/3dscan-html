@@ -8,3 +8,6 @@ Welcome to My Home Page
 - Original date - {{ date }}
 - With timeago filter - {{ date | timeago }}
 
+{{ site.assets_path }}
+
+{{ site.baseurl}}
